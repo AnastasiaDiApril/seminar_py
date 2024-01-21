@@ -1,0 +1,1 @@
+intersection = sorted(set1.intersection(set2))
